@@ -1,5 +1,1 @@
-Change from conflict-demo branch
->>>>>>> main
-"Hello my name is Sushant" 
-"Understanding conflicts" 
-"Shivay" 
+"I dont know what to do" 
