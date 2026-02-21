@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "I dont know what to do" 
+=======
+"Try try try and only try" 
+>>>>>>> feature
