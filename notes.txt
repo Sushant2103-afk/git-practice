@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Changr from main branch
-=======
 Change from conflict-demo branch
->>>>>>> conflict-demo
+>>>>>>> main
