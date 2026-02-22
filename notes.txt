@@ -1,5 +1,10 @@
-<<<<<<< HEAD
+HEAD
+HEAD
 "I dont know what to do" 
-=======
+
 "Try try try and only try" 
->>>>>>> feature
+ feature
+
+Version 1
+Version 2
+ parent of 559e761 (Add feature change)
